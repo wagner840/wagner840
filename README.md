@@ -1,17 +1,27 @@
-![Estatísticas do GitHub de Wagner Carvalho](https://github-readme-stats.vercel.app/api?username=wagner840&show_icons=true&theme=radical)
+# Olá, Mundo! 👋
 
+Eu sou [Wagner Guilherme](https://github.com/wagner840)!
 
-<!--
-**wagner840/wagner840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <em>
+    Estudante de programação na <a href="https://kenzie.com.br/">Kenzie Academy Brasil</a>.<br>
+    Apaixonado por tecnologia desde a infância e sempre buscando aprender. Entusiasta de Front-end com React-TypeScript e NodeJS, e Back-end com NodeJS Ts e Python.
+  </em>
+</p>
 
-Here are some ideas to get you started:
+![github stats](https://github-readme-stats.vercel.app/api?username=wagner840&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Um pouco sobre mim...  
+
+```javascript
+const wagnerGuilherme = {
+    pronouns: "Ele" | "Dele",
+    code: ["Javascript", "Typescript", "Python"],
+    tools: ["React", "Node", "TypeScript"],
+    architecture: ["Design System Pattern"],
+    techCommunities: {
+                        student: "Kenzie Academy Brasil",
+                        workExperiences: []
+                      },
+ challenge: "Participei de diversos projetos resolvendo problemas de alto nível e desenvolvendo habilidades. Sou uma pessoa que gosta de desafios e de resolver problemas."
+}
